@@ -1,4 +1,19 @@
-h1 {
-  color: #db0724;
-  text-align: center;
+.page-container {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  margin: 0 auto;
+  max-width: 1220px;
+  width: 100%;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 900;
+  margin: 25px 0;
+}
+
+.share-button {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 50px;
 }
